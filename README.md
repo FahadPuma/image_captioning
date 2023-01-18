@@ -1,4 +1,4 @@
-## image_captioning
+## Image Captioning
 Providing description to an image using pertained Resnet-50 model trained on ImageNet dataset.
 
 Image Captioning is the process of generating textual description of an image. It uses
